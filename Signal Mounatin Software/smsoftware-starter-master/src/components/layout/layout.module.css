@@ -1,0 +1,19 @@
+.menu-link {
+  @apply text-smsoftware-blue-50 hover:bg-smsoftware-blue-600;
+}
+
+.menu-link-selected {
+  @apply bg-smsoftware-blue-800 text-white;
+}
+
+.mobile-menu-link {
+  @apply text-smsoftware-blue-100 hover:bg-smsoftware-blue-400 hover:text-white;
+}
+
+.mobile-menu-link-selected {
+  @apply bg-smsoftware-blue-400 text-white;
+}
+
+.navbar-height {
+  @apply h-24 sm:h-16;
+}
